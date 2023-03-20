@@ -21,4 +21,4 @@ Exemplo:
 		
 Para acessar o microserviço que fará a inserção das transações de débito e crédito pelo browser utilisando o Swagger;
 
-http://localhost:8085//msinserir-transacao/v1/swagger-ui.html
+http://localhost:8085/msinserir-transacao/v1/swagger-ui.html
